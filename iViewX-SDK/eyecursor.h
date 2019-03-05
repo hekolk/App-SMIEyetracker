@@ -1,6 +1,7 @@
 #ifndef AL_EYECURSOR_H
 #define EYECURSOR_H
 
+#define ALLEGRO_STATICLINK
 
 #include "allegro5/allegro.h"
 #include "allegro5/allegro_primitives.h"
